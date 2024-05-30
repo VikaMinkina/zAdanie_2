@@ -1,0 +1,6 @@
+{
+  "machineName": "Станок 1",
+  "machineType": "Фрезерный",
+  "maxSpeed": 5000,
+  "hasAutomation": true
+}
